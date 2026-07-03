@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include <stdint.h>
 #include "uart.h"
 #include "stm32f4xx.h"
